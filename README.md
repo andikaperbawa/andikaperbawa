@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @andikaperbawa
+- 👀 I’m interested in Geophysics
+- 🌱 I’m currently learning Machine Learning for Geoscience
+- 💞️ I’m looking to collaborate on Geophysical Applications
+- 📫 How to reach me andika.perbawa@gmail.com
